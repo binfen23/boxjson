@@ -1,5 +1,5 @@
 {
-  "logo": "https://ghproxy.net/https://raw.githubusercontent.com/binfen23/boxjson/refs/heads/main/logo.jpg",
+  "logo": "https://ghfast.top/https://raw.githubusercontent.com/binfen23/boxjson/refs/heads/main/logo.jpg",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
@@ -7,7 +7,7 @@
       "key": "dbpy",
       "name": "🎉 缤纷影视",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/binfen23/boxjson/refs/heads/main/py/Douban.py",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/binfen23/boxjson/refs/heads/main/py/Douban.py",
       "searchable": 0,
       "changeable": 1
     },
@@ -15,27 +15,9 @@
       "key": "filepy",
       "name": "📁本地视频",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/binfen23/boxjson/refs/heads/main/py/Localfile.py",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/binfen23/boxjson/refs/heads/main/py/Localfile.py",
       "searchable": 0,
       "changeable": 0
-    },
-    {
-      "key": "mtzy",
-      "name": "茅台资源",
-      "type": 0,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "jyzy",
-      "name": "金鹰资源",
-      "type": 0,
-      "api": "https://jyzyapi.com/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "wlzy",
@@ -47,37 +29,10 @@
       "filterable": 1
     },
     {
-      "key": "360zy",
-      "name": "360资源",
+      "key": "bfzy",
+      "name": "暴风资源",
       "type": 0,
-      "api": "https://360zyzz.com/api.php/seaxml/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shap",
-      "name": "山海api",
-      "type": 0,
-      "api": "https://zy.sh0o.cn/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hyzy",
-      "name": "虎牙资源",
-      "type": 0,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "tyzy",
-      "name": "天涯资源",
-      "type": 0,
-      "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -96,15 +51,6 @@
       "name": "爱奇艺资源",
       "type": 0,
       "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lzzy",
-      "name": "量子资源",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -529,3 +475,4 @@
   ]
 
 }
+
