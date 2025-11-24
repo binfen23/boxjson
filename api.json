@@ -54,6 +54,23 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "一碗",
+      "name": "🥣一碗APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://www.modelscope.cn/models/inen23/feimao_alpha/resolve/master/feimao251124.safetensors",
+      "ext": "http://www.zjcvod.com|ab4e9a421675f14b"
+    },
+    {
+      "key": "荐片",
+      "name": "🎬荐片影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "jar": "https://www.modelscope.cn/models/inen23/feimao_alpha/resolve/master/feimao251124.safetensors",
+      "ext": "https://ev2089.zxbwv.com"
     }
   ],
   "parses": [
@@ -475,5 +492,6 @@
   ]
 
 }
+
 
 
