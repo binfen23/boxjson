@@ -7,7 +7,7 @@
       "key": "dbpy",
       "name": "🎉缤纷影视",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/binfen23/boxjson/refs/heads/main/py/Douban.py",
+      "api": "https://www.modelscope.cn/models/inen23/binfen_alpha/resolve/master/Douban.py",
       "searchable": 0,
       "changeable": 1
     },
@@ -15,7 +15,7 @@
       "key": "filepy",
       "name": "📁本地视频",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/binfen23/boxjson/refs/heads/main/py/Localfile.py",
+      "api": "https://www.modelscope.cn/models/inen23/binfen_alpha/resolve/master/Localfile.py",
       "searchable": 0,
       "changeable": 0
     },
@@ -501,6 +501,7 @@
   ]
 
 }
+
 
 
 
