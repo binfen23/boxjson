@@ -71,7 +71,16 @@
       "playerType": "2",
       "jar": "https://www.modelscope.cn/models/inen23/binfen_alpha/resolve/master/feimao251124.safetensors",
       "ext": "https://ev2089.zxbwv.com"
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "🌻瓜子影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://www.modelscope.cn/models/inen23/feimao_alpha/resolve/master/feimao251124.safetensors",
+      "playerType": 2
     }
+    
   ],
   "parses": [
     {
@@ -492,6 +501,7 @@
   ]
 
 }
+
 
 
 
