@@ -60,7 +60,7 @@
       "name": "🥣一碗APP",
       "type": 3,
       "api": "csp_AppGet",
-      "jar": "https://www.modelscope.cn/models/inen23/feimao_alpha/resolve/master/feimao251124.safetensors",
+      "jar": "https://www.modelscope.cn/models/inen23/binfen_alpha/resolve/master/feimao251124.safetensors",
       "ext": "http://www.zjcvod.com|ab4e9a421675f14b"
     },
     {
@@ -69,7 +69,7 @@
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
-      "jar": "https://www.modelscope.cn/models/inen23/feimao_alpha/resolve/master/feimao251124.safetensors",
+      "jar": "https://www.modelscope.cn/models/inen23/binfen_alpha/resolve/master/feimao251124.safetensors",
       "ext": "https://ev2089.zxbwv.com"
     }
   ],
@@ -492,6 +492,7 @@
   ]
 
 }
+
 
 
 
